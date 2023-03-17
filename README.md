@@ -32,7 +32,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![alt="Page with new notes posted"](./Assets/Images/Notes%20posted.png)
 
-## Link to code
+## Link to site
 https://jancypp.github.io/express-js-note-taker/
 
 ## Link to Github repository
